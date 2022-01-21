@@ -1,3 +1,8 @@
+# * Repository moved to design-resources *
+[I2CController new location](https://github.com/opalkelly-opensource/design-resources/tree/main/HDLComponents/I2CController)
+
+
+
 I2CController Software Distribution
 ===================================
 This is a full-featured I2C Controller designed to communicate I2C commands from 
